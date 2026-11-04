@@ -1,0 +1,18 @@
+# Рабочие заметки (только локально)
+todo.md
+memory.md
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Служебные файлы ОС/редакторов
+.DS_Store
+.idea/
+.vscode/
