@@ -38,8 +38,11 @@ jupyter nbconvert --to notebook --execute --inplace notebook.ipynb
   средние и std признаков train после масштабирования
 - `figures/scatter_train_raw.png`: диаграмма рассеяния обучающих объектов
   до масштабирования
-- дальше по ходу работы: `results/metrics.csv`, `results/grad_norms.csv`,
-  графики в `figures/`
+- `results/metrics.csv`: метрики 12 запусков за эпохи 0-100
+- `results/epoch100.csv`: train и val loss/accuracy на 100-й эпохе
+- `results/val_loss_mean.csv`: средний val loss по двум seed
+- `figures/val_loss_seed11.png`, `figures/val_acc_seed11.png`: кривые A-F
+- дальше по ходу работы: `results/grad_norms.csv` и остальные графики
 
 ## Конфигурации
 
