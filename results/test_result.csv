@@ -1,0 +1,2 @@
+config,seed,train_loss,train_accuracy,val_loss,val_accuracy,test_loss,test_accuracy
+F,11,0.137963,0.945833,0.166245,0.925000,0.130211,0.943750
