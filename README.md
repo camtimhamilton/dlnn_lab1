@@ -46,6 +46,7 @@ jupyter nbconvert --to notebook --execute --inplace notebook.ipynb
 - `figures/grad_norms_seed11.png`: нормы по слоям, seed 11
 - `results/test_result.csv`: выбранная конфигурация, test loss и accuracy
 - `figures/final_train_val_loss.png`: train и val loss выбранного запуска
+- `report.docx`: отчет по разделам 1-5 с графиками и таблицами
 
 ## Конфигурации
 

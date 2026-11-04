@@ -16,3 +16,6 @@ venv/
 .DS_Store
 .idea/
 .vscode/
+
+# Готовый архив для сдачи
+lab_mlp_*.zip
