@@ -42,7 +42,8 @@ jupyter nbconvert --to notebook --execute --inplace notebook.ipynb
 - `results/epoch100.csv`: train и val loss/accuracy на 100-й эпохе
 - `results/val_loss_mean.csv`: средний val loss по двум seed
 - `figures/val_loss_seed11.png`, `figures/val_acc_seed11.png`: кривые A-F
-- дальше по ходу работы: `results/grad_norms.csv` и остальные графики
+- `results/grad_norms.csv`: нормы градиентов для A, C, D на эпохах 0, 20, 100
+- `figures/grad_norms_seed11.png`: нормы по слоям, seed 11
 
 ## Конфигурации
 
